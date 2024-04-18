@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Student.cpp
+  StudentList.cpp
+C:\Users\ROCK\OneDrive - VNU-HCMUS\Năm 2\HK2\OOP\LTOOP\Homework\W06\22120023-W06-02\22120023-W06-02\StudentList.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ROCK\OneDrive - VNU-HCMUS\Năm 2\HK2\OOP\LTOOP\Homework\W06\22120023-W06-02\22120023-W06-02\StudentList.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  22120023-W06-02.vcxproj -> C:\Users\ROCK\OneDrive - VNU-HCMUS\Năm 2\HK2\OOP\LTOOP\Homework\W06\22120023-W06-02\Debug\22120023-W06-02.exe

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|solutionrelative:22120023-W06-02\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\StudentList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|solutionrelative:22120023-W06-02\\StudentList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|solutionrelative:22120023-W06-02\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\Text.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|solutionrelative:22120023-W06-02\\Text.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\StudentList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|solutionrelative:22120023-W06-02\\StudentList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|solutionrelative:22120023-W06-02\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C3C4D6-4E0F-4B53-89EE-2DD75E6D66BB}|22120023-W06-02\\22120023-W06-02.vcxproj|solutionrelative:22120023-W06-02\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\main.cpp",
+              "RelativeDocumentMoniker": "22120023-W06-02\\main.cpp",
+              "ToolTip": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\main.cpp",
+              "RelativeToolTip": "22120023-W06-02\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T09:02:40.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\Student.cpp",
+              "RelativeDocumentMoniker": "22120023-W06-02\\Student.cpp",
+              "ToolTip": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\Student.cpp",
+              "RelativeToolTip": "22120023-W06-02\\Student.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T09:02:07.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Text.csv",
+              "DocumentMoniker": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\Text.csv",
+              "RelativeDocumentMoniker": "22120023-W06-02\\Text.csv",
+              "ToolTip": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\Text.csv",
+              "RelativeToolTip": "22120023-W06-02\\Text.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-04-18T09:00:41.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "config.txt",
+              "DocumentMoniker": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\config.txt",
+              "RelativeDocumentMoniker": "22120023-W06-02\\config.txt",
+              "ToolTip": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\config.txt",
+              "RelativeToolTip": "22120023-W06-02\\config.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-18T08:59:21.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentList.cpp",
+              "DocumentMoniker": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\StudentList.cpp",
+              "RelativeDocumentMoniker": "22120023-W06-02\\StudentList.cpp",
+              "ToolTip": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\StudentList.cpp",
+              "RelativeToolTip": "22120023-W06-02\\StudentList.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T09:02:22.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentList.h",
+              "DocumentMoniker": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\StudentList.h",
+              "RelativeDocumentMoniker": "22120023-W06-02\\StudentList.h",
+              "ToolTip": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\StudentList.h",
+              "RelativeToolTip": "22120023-W06-02\\StudentList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T08:57:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\Student.h",
+              "RelativeDocumentMoniker": "22120023-W06-02\\Student.h",
+              "ToolTip": "C:\\Users\\ROCK\\OneDrive - VNU-HCMUS\\N\u0103m 2\\HK2\\OOP\\LTOOP\\Homework\\W06\\22120023-W06-02\\22120023-W06-02\\Student.h",
+              "RelativeToolTip": "22120023-W06-02\\Student.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T08:57:01.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
