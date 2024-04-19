@@ -4,18 +4,63 @@
 int main() {
 	StudentList sl("Text.csv");
 	bool ok = true;
-	std::string s;
-	while (ok && !sl.getMp().empty()) {
-		std::cout << "The lucky students selected are: ";
-		sl.randomStudent();
-		std::cout << "Press Enter to continue program or type 'exit' to stop." << std::endl;
-		std::getline(std::cin, s);
-		if (s == "exit") ok = false;
-		else ok = true;
+	std::string option;
+	std::string option2;
+	while (ok) {
+		menu1();
+		while (!(std::getline(std::cin, option)) || (option != "1" && option != "2" && option != "exit")) {
+			std::cin.clear();
+			//std::cin.ignore(1000, '\n');
+			std::cout << "Invalid input. Please re-enter: ";
+		}
 		system("cls");
+		if (option == "1") {
+			menu2();
+			while (!(std::getline(std::cin, option2)) || (option2 != "1" && option2 != "2" && option2 != "return" && option2 != "exit")) {
+				std::cin.clear();
+				//std::cin.ignore(1000, '\n');
+				std::cout << "Invalid input. Please re-enter: ";
+			}
+			if (option2 == "1") {
+				executeRandom(sl, "1.1");
+				ok = false;
+			}
+			else if (option2 == "2") {
+				executeRandom(sl, "1.2");
+				ok = false;
+			}
+			else if (option2 == "return") {
+				system("cls");
+			}
+			else if (option2 == "exit") {
+				ok = false;
+			}
+		}
+		else if (option == "2") {
+			menu2();
+			while (!(std::getline(std::cin, option2)) || (option2 != "1" && option2 != "2" && option2 != "return" && option2 != "exit")) {
+				std::cin.clear();
+				//std::cin.ignore(1000, '\n');
+				std::cout << "Invalid input. Please re-enter: ";
+			}
+			if (option2 == "1") {
+				executeRandom(sl, "2.1");
+				ok = false;
+			}
+			else if (option2 == "2") {
+				executeRandom(sl, "2.2");
+				ok = false;
+			}
+			else if (option2 == "return") {
+				system("cls");
+			}
+			else if (option2 == "exit") {
+				ok = false;
+			}
+		}
+		else if (option == "exit") {
+			ok = false;
+		}		
 	}
-	if (sl.getMp().empty()) std::cout << "All the students got to speak! End of class!" << std::endl;
-	else std::cout << "End of class!" << std::endl;
-	sl.updateFile("Text.csv");
 	return 0;
 }

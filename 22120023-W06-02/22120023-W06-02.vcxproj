@@ -134,9 +134,11 @@
     <Text Include="config.txt" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram.cd" />
     <None Include="Text.csv" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="function.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="StudentList.cpp" />

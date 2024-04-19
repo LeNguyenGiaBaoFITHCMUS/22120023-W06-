@@ -40,20 +40,42 @@ std::string randomString(const std::set<std::string>& se) {
 	return v[random_index];
 }
 
-void StudentList::randomStudent() {
-	int sum = 0;
-	for (int i = 0; i < this->mp.size(); i++) sum += (i + 1);
-	double x = (double)100 / sum;
+void StudentList::randomStudent(std::string choice) {
 	std::vector<double> v;
-	int cnt = this->mp.size();
-	for (int i = 0; i < this->mp.size(); i++) {
-		if (i == 0) {
-			v.push_back(x * cnt / 100);
+	if (choice == "1.1" || choice == "1.2") {
+		int sum = 0;
+		for (int i = 0; i < this->mp.size(); i++) sum += (i + 1);
+		double x = (double)100 / sum;
+		int cnt = this->mp.size();
+		for (int i = 0; i < this->mp.size(); i++) {
+			if (i == 0) {
+				v.push_back(x * cnt / 100);
+			}
+			else {
+				v.push_back(v[i - 1] + (x * cnt / 100));
+			}
+			cnt--;
 		}
-		else {
-			v.push_back(v[i - 1] + (x * cnt / 100));
+	}
+	else if (choice == "2.1" || choice == "2.2") {
+		std::string s;
+		std::fstream in("config.txt", std::ios::in);
+		if (in.fail()) {
+			std::cout << "Opening file failed!" << std::endl;
+			return;
 		}
-		cnt--;
+		int count;
+		std::string word;
+		std::getline(in, word);
+		while (!in.eof()) {
+			in >> s;
+			std::stringstream ss(s);
+			std::getline(ss, word, ',');
+			count = std::stoi(word);
+			std::getline(ss, word, ',');
+			v.push_back(std::stod(word));
+		}
+		in.close();
 	}
 	std::random_device rd;
 	std::mt19937 gen(rd());
@@ -74,11 +96,16 @@ void StudentList::randomStudent() {
 		ans++;
 	}
 	std::cout << s.getStudentCode() << std::endl;
-	this->mp_new[s.getCount() + 1].insert(s.getStudentCode());
 	this->mp[s.getCount()].erase(s.getStudentCode());
 	if (this->mp[s.getCount()].empty()) {
 		auto it = this->mp.find(s.getCount());
 		this->mp.erase(it);
+	}
+	if (choice == "1.1" || choice == "2.1") {
+		this->mp_new[s.getCount() + 1].insert(s.getStudentCode());
+	}
+	if (choice == "1.2" || choice == "2.2")	{
+		this->mp[s.getCount() + 1].insert(s.getStudentCode());
 	}
 }
 

@@ -12,6 +12,10 @@
 #include <set>
 #include <random>
 #include <sstream>
+#include <iomanip>
+
+void menu1();
+void menu2();
 
 class Student {
 private:
@@ -25,4 +29,5 @@ public:
 	void setStudentCode(std::string student_code);
 	void setCount(int count);
 };
+
 #endif // !_Student_h

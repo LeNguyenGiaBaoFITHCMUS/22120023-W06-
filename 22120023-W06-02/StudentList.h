@@ -11,9 +11,12 @@ private:
 public:
 	StudentList(std::string file);
 	std::map<int, std::set<std::string>> getMp();
-	void randomStudent();
+	void randomStudent(std::string choice);
 	void updateMpNew();
 	std::map<int, std::set<std::string>> getMpNew();
 	void updateFile(std::string file);
 };
+
+void executeRandom(StudentList& sl, std::string choice);
+
 #endif // !_StudentList_h

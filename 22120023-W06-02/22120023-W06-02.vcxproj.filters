@@ -31,6 +31,7 @@
     <None Include="Text.csv">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Student.cpp">
@@ -40,6 +41,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
